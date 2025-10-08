@@ -1,4 +1,4 @@
-# DevOps Advamced - IaC Fundamentals - Hands-On Laboratory
+# DevOps Advanced - IaC Fundamentals - Hands-On Lab
 
 ## Table of Contents
 1. [Introduction to Terraform](#introduction)
@@ -11,6 +11,7 @@
 8. [Lab 6: Terraform State Management](#lab-6-terraform-state-management)
 9. [Lab 7: Modules and Reusability](#lab-7-modules-and-reusability)
 10. [Best Practices and Next Steps](#best-practices-and-next-steps)
+11. [Autor](#autor)
 
 ---
 
@@ -2124,7 +2125,8 @@ You've completed the Terraform Fundamentals laboratory. You now have hands-on ex
 
 Keep practicing and building more complex infrastructures. The key to mastering Terraform is consistent practice and real-world application.
 
-Kirk Patrick
+## Autor
+- **Kirk Patrick** — [https://www.linkedin.com/in/kirkgo/](https://www.linkedin.com/in/kirkgo/) · kirkgo at gmail.com
 
 ---
 
