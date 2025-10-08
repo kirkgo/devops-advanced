@@ -2126,7 +2126,7 @@ You've completed the Terraform Fundamentals laboratory. You now have hands-on ex
 Keep practicing and building more complex infrastructures. The key to mastering Terraform is consistent practice and real-world application.
 
 ## Autor
-- **Kirk Patrick** — [https://www.linkedin.com/in/kirkgo/](https://www.linkedin.com/in/kirkgo/) · kirkgo at gmail.com
+- **Kirk Patrick** - [https://www.linkedin.com/in/kirkgo/](https://www.linkedin.com/in/kirkgo/) · kirkgo at gmail.com
 
 ---
 
