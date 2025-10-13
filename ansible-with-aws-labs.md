@@ -1,4 +1,4 @@
-# DevOps Advamced - Ansible with Terraform and AWS - Hands-On Lab
+# DevOps Advanced - Ansible with Terraform and AWS - Hands-On Lab
 
 ## Table of Contents
 1. [Prerequisites](#prerequisites)
