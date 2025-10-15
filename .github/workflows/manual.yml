@@ -1,0 +1,8 @@
+name: 02 - Manual
+on: workflow_dispatch
+
+jobs:
+  run-manual:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Disparado manualmente este flow"
