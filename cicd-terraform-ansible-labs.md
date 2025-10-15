@@ -1,4 +1,4 @@
-# CI/CD Pipeline Fundamentals - Hands-On Laboratory
+# CI/CD Pipeline - Hands-On Lab
 ## Terraform + Ansible + GitHub Actions
 
 ## Table of Contents
